@@ -1,0 +1,21 @@
+{
+    "name": "old-nights",
+    "displayName": "old-nights",
+    "description": "Dark Oceanic City Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "old-nights",
+                "uiTheme": "vs-dark",
+                "path": "./themes/old-nights-color-theme.json"
+            }
+        ]
+    }
+}
